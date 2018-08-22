@@ -1,2 +1,2 @@
-# smart-contracts
-Smart Contracts for https://oracle-roulette.win
+# OracleEthereumRoulette
+Smart Contracts for Trustless European Roulette https://oracle-roulette.win
